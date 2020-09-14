@@ -1,0 +1,22 @@
+
+
+[Editor.Custom]
+Assembler = $696969, clNone, 0 , 0, 0
+Character = $4763FF, clNone, 0, 0, 0
+Comment = $C0C0C0, clNone, 0, 1, 0
+Float = $4763FF, clNone, 0, 0, 0
+Hexadecimal = $4763FF, clNone, 0, 0, 0
+Identifier = $F5F5F5, clNone, 0, 0, 0
+Illegal Char = $000000, $0000FF, 0, 0, 0
+Number = $4763FF, clNone, 0, 0, 0
+Octal = $4763FF, clNone, 0, 0, 0
+Preprocessor = $0099FFFF, clNone, 0, 0, 0
+Reserved Word = $FF8888, clNone, 1, 0, 0
+Space=clWindowText, $222222, 0, 0, 0
+String = $4763FF, clNone, 0, 0, 0
+Symbol = $00D7FF, clNone, 1, 0, 0
+Selected text = $FFFFFF, $998877, 0, 0, 0
+Gutter = $FFFFFF,clWindowText, 1, 0, 0
+Break points = $FFFFF0, $5C5CCD, 0, 0, 0
+Error Line = $FFFFFF, $2222B2, 0, 0, 0
+Active Breakpoints = $F5F5F5, $8B0000, 0, 0, 0
