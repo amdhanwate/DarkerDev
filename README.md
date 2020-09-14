@@ -10,4 +10,4 @@ DarkerDEV Theme for Dev C++
 You are Done! ENJOY!
 
 ## THEME PREVIEW
-![theme preview]()
+![theme preview](https://github.com/coderAbhii/DarkerDev/blob/master/darkerDEV.png)
